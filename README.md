@@ -1,2 +1,9 @@
-# my-rock-paper-scissors-app-4
-A simple rock paper scissors project
+# Rock Paper Scissors
+
+A simple rock paper scissors project.
+\n
+## Getting Started
+
+```bash
+python rock.py
+```
